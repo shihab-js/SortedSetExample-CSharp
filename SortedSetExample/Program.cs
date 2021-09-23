@@ -16,7 +16,10 @@ namespace SortedSetExample
 
 
             //iterate the sorted set
-
+            foreach(var name in names)
+            {
+                Console.WriteLine(name);
+            }
 
         }
     }
