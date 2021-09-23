@@ -26,7 +26,8 @@ namespace SortedSetExample
             {
                 "Dhaka",
                 "San-Francisco",
-                "Hongkong"
+                "Hongkong",
+                "Dubai"
 
             };
 
