@@ -21,6 +21,16 @@ namespace SortedSetExample
                 Console.WriteLine(name);
             }
 
+            //create a SortedSet using collection initiazer
+            var cities = new SortedSet<string>()
+            {
+                "Dhaka",
+                "San-Francisco",
+                "Hongkong"
+
+            };
+
+
         }
     }
 }
