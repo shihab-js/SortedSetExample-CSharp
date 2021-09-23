@@ -30,6 +30,12 @@ namespace SortedSetExample
 
             };
 
+            Console.WriteLine("Iterate the cities sorted set");
+            //iterate the cities SortedSet
+            foreach(var city in cities)
+            {
+                Console.WriteLine(city);
+            }
 
         }
     }
